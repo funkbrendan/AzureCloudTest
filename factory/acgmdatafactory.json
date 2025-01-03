@@ -1,0 +1,9 @@
+{
+	"name": "acgmdatafactory",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8c29851a-0436-4663-a44c-c0d30da84523",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
